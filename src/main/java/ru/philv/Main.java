@@ -15,7 +15,8 @@ public class Main {
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
             System.out.println("not i = " + (15 - i));
-            HA!HA!HA! It's A TRAP!!!!
+            System.out.println("PARAPA");
+
         }
     }
 }
